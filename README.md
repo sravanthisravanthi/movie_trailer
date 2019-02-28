@@ -1,4 +1,4 @@
-# movie_trailer
+# Movie_Trailer
 python project
 
 TITLE : Movie Trailer Website 
