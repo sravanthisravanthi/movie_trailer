@@ -1,5 +1,5 @@
 # Movie_Trailer
-python project
+Python NanoDegree Project
 
 TITLE : Movie Trailer Website 
 AUTHOR : Sravanthi Munnaluri
